@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Faderoni.com%2Fpemrograman%2Fmengenal-front-end-web-developer%2F&psig=AOvVaw0WLUrIQso1oSQNW12OlYDf&ust=1666508899827000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjV08yj8_oCFQAAAAAdAAAAABAD)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Elang Bimantoro</h1>
 <h3 align="center">A frontend developer from Indonesia</h3>
 

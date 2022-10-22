@@ -1,4 +1,4 @@
-[![MasterHead](https://aderoni.com/wp-content/uploads/2022/08/Mengenal-Front-End-Web-Developer.webp)](https://rishavchanda.io)
+[![MasterHead](https://aderoni.com/wp-content/uploads/2022/08/Mengenal-Front-End-Web-Developer.webp)](https://bit.ly/linktree-elangb)
 
 
 <h1 align="center">Hi 👋, I'm Elang Bimantoro</h1>
